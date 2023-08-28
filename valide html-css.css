@@ -1,0 +1,74 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	}
+
+	header{
+}
+.navbars{
+	display: flex;
+	justify-content: space-between;
+	font-size: 30px;
+	background-color: black;
+}
+.navbar .fa{
+	padding: 10px;
+      
+     
+   }
+  .navbar1{
+  	display: flex;
+  
+  }
+  .fatima{
+     color: white;
+  }
+
+
+.image {
+
+   background-image: url(jane.jpg);
+    background-size: cover;
+   background-repeat: no-repeat;
+   height: 800px;
+   padding: 35px;
+}
+.image img{
+	position: relative;
+}
+.diz{
+	position: absolute;
+	top: 80%;
+	left: 30px;
+	color: white;
+	font-size: 35px;
+	
+}
+button{
+	padding: 15px;
+	background-color: rgba( 128, 128, 128, 0.6);
+	border: none;
+	font-size: 25px;
+}
+span{
+	background-color: black;
+	padding: 6px;
+	color: white;
+}
+
+img{
+	width: 100%;
+}
+.navbar2{
+	position: relative;
+	background-color: #FFF;
+	padding: 60px;
+	font-size: 40px;
+}
+.test{
+	position: absolute ;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+
+}
